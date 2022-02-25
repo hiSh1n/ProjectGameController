@@ -1,1 +1,2 @@
 # ProjectGameController
+I like to play pc games, while playing I felt they are more enjoyable with controller but I don't got any money ; I searched for controller emulator for android but it's mostly trash or outdated apps with bunch of ads. So I decided to make one myself free and open source for everyone! Sadly I don't have that kind of knowledge/skill now, but I am learning regularly and hope to finish it by the end of this year (2022). 
