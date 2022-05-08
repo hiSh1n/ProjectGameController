@@ -8,7 +8,7 @@
       <b> changes </b>
       <ul>
         <li>
-          <i>added initial design </i> </br> 
+          <i>added initial design [8 may 2022] </i> </br> 
           <img src="https://github.com/hiSh1n/ProjectGameController/blob/1ebeb9d4035bb35787250d22877f73663a23febb/Images/CONTROLLER%20LAYOUT.png" alt="image controller layout" width=500px>
           <h3> TO DO </h3>
 <ul>
